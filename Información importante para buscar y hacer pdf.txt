@@ -1,0 +1,16 @@
+Modulo 1
+Conceptos básicos en programación y Desarrollo Web.
+Conocimientos básicos de la lógica de programación.
+Explicación de las herramientas para el entorno de programación web e instalación desde cero.
+Modulo de Front-End
+HTML
+CSS
+JAVASCRIPT
+TAILWINDCSS
+EXTRA FETCH
+Modulo de Back-End
+PHP
+Bases de Datos
+MySQL
+Servicios Rest Api
+LARAVEL

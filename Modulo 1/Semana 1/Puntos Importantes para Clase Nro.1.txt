@@ -1,0 +1,148 @@
+¿Qué aprenderás en este curso?
+
+Fundamentos del Desarrollo Web
+Lenguajes de programación
+Bases de Datos
+Formas de aprender un lenguaje de programación
+Herramientas Necesarias
+Que aprender en el futuro
+Cómo realizar un proyecto desde cero
+
+¿Que tipos de estudiantes deben tomar este curso?
+
+Interesados en estudiar informática.
+Emprendedores.
+Programadores.
+Diseñadores.
+
+Para programar no se necesita un titulo universitario.
+
+Fundamentos de programación web
+
+Actulidad del Desarrollo Web
+- El Desarrollo Web ha evolucionado de forma increíble los ultimos años.
+El Desarrollo o Programación Web ya no se limita unicamente a crear un sitio web atractivo.
+
+¿Que puede incluir un sitio web?
+Los sitios web hoy en dia pueden tener funcionalidad que hace 10 años era imposible de imaginar: creación de sitios web de membresias, vender en linea, vender artículos digitales como fotografias, musica o videojuegos.
+
+Incluso un sitio web puede conectar una aplicación móvil.
+
+El desarrollo web y el desarrollo de aplicaciones móviles son dos temas conectados de manera muy cerca, cuando hacemos busquedas en youtube por algun video realizamos una petición a un servidor web
+
+servidor web: Software que forma parte del servidor y tiene como misión principal devolver información cuando recibe peticiones por parte de los usuarios.
+
+Es una disciplina que te puede dar un trabajo a corto plazo y mantenerlo por los próximos años.
+
+¿Que es una página web y qué es un sitio web?
+
+Página web hace referencia a un solo documento al que se accede en internet. Sitio web es una colección de páginas web vinculadas, que comparten un único nombre de dominio.
+
+¿Cuál es la diferencia entre aplicativo web y sitio web?
+
+Un sitio web no necesariamente tiene que tener conexión con alguna base de datos. Por otra parte una aplicación web se define como un conjunto de páginas dinámicas (cuyo contenido se define luego de que un usuario haya interactuado con ella).
+
+PARA ENTENDER LOS FUNDAMENTOS DE PROGRAMACION DEBEMOS ENTENDER CÓMO FUNCIONA LA WEB
+
+para aplicaciones web existe una gran variedad de lenguajes para desarrollo web los lenguajes y tecnologías Web se clasifican en cliente y servidor.
+
+Los lenguajes del cliente son los que se muestran y trabajan bajo un navegador web por ejemplo Chrome, edge, Internet Explorer y estos usualmente son estos tres tales como HTML, CSS y JavaScript.
+
+Las bases de datos todos estos corren en el servidor.
+
+¿Que es HTML? Es lenguaje de marcado de hipertexto 
+
+Es el lenguaje utilizado para crear páginas web no importa que el lenguaje de servidor se utilice 
+
+siempre un sitio web va a requerir HTML los navegadores web utilizan, leen y muestran HTML.
+
+La ventaja que tiene es que es muy fácil de aprender un par de horas puedes aprender HTML.
+
+Utilizado para darle estructura a un sitio web de forma semántica se encarga de la presentación del contenido
+
+El texto que aparece en el sitio web las imágenes los videos y más.
+
+HTML no es un lenguaje de programación pero sí es importante crear sitios web.
+
+La versión actual es HTML5.
+
+¿Qué es CSS? es el acrónimo de Cascade Style Sheets u hojas de estilo en cascada 
+
+Describe los estilos de los elementos que definimos en el HTML 
+
+CSS y HTML van totalmente de la mano en un sitio web 
+
+lo que escribes en HTML le das estilos con CSS 
+
+Para crear un sitio web atractivo visualmente.
+
+CSS Grid y Flexbox son un estándar muy utilizado para el posicionamiento de los elementos
+
+Su versión actual es CSS3.
+
+HTML son los ladrillos y la base de una casa mientras que CSS es la pintura.
+
+¿Que es JavaScript? 
+A diferencia por ejemplo de HTML CSS, JavaScript es un lenguaje de programación
+
+Es un Lenguaje de programación interpretado conocido como el lenguaje de scripting para la web 
+
+creció siendo un lenguaje 100% dedicado a la web y ha evolucionado de tal forma que incluso podemos crear aplicaciones para el móvil por medio de JavaScript.
+
+Ha pasado de ser un lenguaje inseguro (se recomendaba deshabilitar JavaScript porque podía ocasionar problemas de hackeo) y hoy en día es el lenguaje más importante para trabajar con el desarrollo web.
+
+Validar formularios.
+Enviar datos a la base de datos.
+Recibir información de la base de datos y mostrarla.
+Mensajes de error o de éxito dinámicos.
+
+lenguajes del servidor.
+
+Existen otro grupo de lenguajes de programación, aquellos que interactuan directamente con la base de datos.
+
+Los lenguajes utilizados para crear aplicaciones web se les conoce como lenguajes del servidor.
+
+Estos tienen la característica de que son los lenguajes que se encargan por ejemplo de la seguridad de la aplicación, de realizar consultas a nuestra base de datos etc. 
+
+Si es programado en lenguajes como Java Python PHP, C# cualquiera de estos lenguajes puede ser utilizado para desarrollo web
+
+NOTA: JavaScript es un lenguaje de programación que ha cambiado durante los años y se ha convertido en un lenguaje de programación utilizado para Front-End y Back-End (Node.js).
+
+Para crear aplicaciones web más avanzadas algunos de ellos por ejemplo MySQL (principal programa utilizado para crear base de datos relacionales) puede correr con todos estos lenguajes que se conectan con el servidor, como también hay otros que solo funcionan con ciertos lenguajes.
+
+Supongamos que queremos crear un sitio web como Netflix 
+
+En un lenguaje para el cliente te va a permitir realizar la parte del diseño 
+
+Por ejemplo: cada una de las películas mostradas en la interfaz (ya sea de la aplicación o de la página web, la navegación entre las distintas pantallas), así como los botones que vienen en Netflix cuando seleccionas una fotografía y te lleva a la descripción de un menú.
+
+Esta es la parte visual esto se realizaría con HTML CSS y JavaScript
+
+A su vez, los lenguajes del servidor nos van a permitira que los usuarios se registren, realicen los pagos y prevenir que puedan ver las películas cuando no han pagado.
+
+Toda la parte de la funcionalidad, validación y seguridad se realiza por medio del lenguaje del servidor. 
+
+Almacenado en una base de datos para comprobar que los usuarios han pagado el mes correspondiente, o mostrar las películas, o información correspondiente.
+
+Esta sería la principal diferencia.
+
+La información como por ejemplo la fotografía, la información de la película, El nombre, el año, los actores. Vendría desde una base de datos utilizando un lenguaje del servidor.
+
+La parte visual los colores las imágenes el tamaño, sería HTML CSS para poderlas mostrar de forma correcta al diseño planteado por Netflix.
+
+almacenar sus películas favoritas en su lista.
+
+El botón en el que viene a agregar la lista de peliculas favoritas sería su diseño, realizado con HTML Y CSS
+
+la funcionalidad utilizada para identificar qué usuario tiene almacenadas qué películas en su lista sería por medio de un lenguaje del servidor y una base de datos.
+
+Esto demuestra la diferencia principal entre un lenguaje del cliente y un lenguaje del servidor 
+
+Tal vez tengas la duda de si tienes que conocer todo esto para ser un desarrollador web.
+
+La respuesta es no. 
+
+Existen distintos enfoques que puedes tomar para ser un desarrollador web.
+
+¿Qué necesitas saber para convertirte en un desarrollador front-End o en un desarrollador Back-End?
+
